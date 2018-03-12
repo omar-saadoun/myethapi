@@ -1,0 +1,31 @@
+{
+  "name": "myethapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar-saadoun/myethapi.git"
+  },
+  "keywords": [
+    "ether",
+    "blockchain",
+    "web3"
+  ],
+  "author": "Omar Saadoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omar-saadoun/myethapi/issues"
+  },
+  "homepage": "https://github.com/omar-saadoun/myethapi#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
